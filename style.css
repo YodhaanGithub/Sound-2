@@ -1,0 +1,31 @@
+body {
+    font-family: 'Bad Script',cursive;
+    background: linear-gradient(#e66465, #9198e5);
+}
+.header_div
+{
+    background: linear-gradient(#F50707,#EFF700 );
+    color:rebeccapurple;
+}
+.header_div p {
+    color: blue;
+    letter-spacing: 2px;    
+}
+
+.main_div button {
+    margin-top:30px;
+    width: 130px;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: blueviolet;
+    bottom:0;
+    width:100%;
+    font-size: 18px;
+    background-color:greenyellow ;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(11, 255, 223);
+}
